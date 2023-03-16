@@ -309,9 +309,9 @@ header a::after{
 }
 
 
-@media (max-width: 599px) {
+/* @media (max-width: 599px) {
     .twitter-link {
         bottom: -100px;
     }
 
-}
+} */
